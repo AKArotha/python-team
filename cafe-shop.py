@@ -8,8 +8,7 @@ menu = {
    "Angkor Beer": 2.0,
    "Cambodia Beer": 10.0,
    "Anchor Beer": 30.0,
-   "Corona Beer": 40.0,
-   "Hanuman Beer": 50.0
+   "Corona Beer": 40.0
 }
 
 order = {}
