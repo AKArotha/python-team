@@ -13,7 +13,10 @@ menu = {
    "Cambodia Beer": 10.0,
    "Anchor Beer": 30.0,
    "Corona Beer": 40.0,
-   "Hello": 6.0
+   "Hello": 6.0,
+   "Arizona": 3,
+   "Heogarden": 2,
+   "Jinro": 3
 }
 
 order = {}
