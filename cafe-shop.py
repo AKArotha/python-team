@@ -18,6 +18,7 @@ menu = {
    "Corona Beer": 40.0,
    "Hanuman Beer": 50.0,
    "Corona Beer": 40.0,
+   "Lemon Tea": 4.0
 }
 
 order = {}
