@@ -7,7 +7,8 @@ menu = {
    "Tea": 2.0,
    "Angkor Beer": 2.0,
    "Cambodia Beer": 10.0,
-   "Anchor Beer": 30.0
+   "Anchor Beer": 30.0,
+   "Corona Beer": 40.0
 }
 
 order = {}
