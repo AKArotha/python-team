@@ -4,6 +4,10 @@ menu = {
    "Latte": 3.5,
    "Mocha": 4.0,
    "Iced Coffee": 3.5,
+   "Tea": 2.0, 
+   "Matcha Latte" : 2.0,
+   "Green Milk tea" : 1.5,
+   "Magarita" : 3.0
    "Tea": 2.0,
    "Angkor Beer": 2.0,
    "Cambodia Beer": 10.0,
