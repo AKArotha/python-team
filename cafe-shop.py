@@ -12,7 +12,7 @@ menu = {
    "Angkor Beer": 2.0,
    "Cambodia Beer": 10.0,
    "Anchor Beer": 30.0,
-   "Angkor Puro" : 55.0
+   "Angkor Puro" : 66,
 }
 
 order = {}
