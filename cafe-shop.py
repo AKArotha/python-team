@@ -81,3 +81,5 @@ def cafe_menu():
 
 cafe_menu()
 
+
+print("Hello world")
